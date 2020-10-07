@@ -20,4 +20,5 @@ RBR_Processing.py contains processing steps:
 Reference:
 Halverson, M., Jackson, J., Richards, C., Melling, H., Brunsting, R., Dempsey, M., Ga-
 tien, G., Hamilton, A., Hunt, B., Jacob, W., and Zimmerman, S. 2017. Guidelines
-for proces
+for processing RBR CTD profiles. Can. Tech. Rep. Hydrogr. Ocean Sci. 314: iv
++ 38 p.
